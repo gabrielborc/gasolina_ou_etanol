@@ -61,7 +61,7 @@ export default class App extends React.Component {
                     justifyContent: 'center',
                     alignItems: 'center',
                 }}>
-                    <Image source={require('./gas-pump.png')} style={styles.logo} />
+                    <Image source={require('./assets/gas-pump.png')} style={styles.logo} />
                 </View>
                 <Text style={styles.paragraph}>Etanol ou Gasolina?</Text>
                 <Card style={[styles.card, isSwitchOn && styles.cardDark]}>
