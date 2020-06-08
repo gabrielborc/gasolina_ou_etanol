@@ -1,7 +1,7 @@
 {
   "expo": {
-    "name": "app",
-    "slug": "app",
+    "name": "Gasolina ou Etanol",
+    "slug": "gasolina-ou-etanol",
     "privacy": "public",
     "sdkVersion": "36.0.0",
     "platforms": [
@@ -26,6 +26,7 @@
     "ios": {
       "supportsTablet": true
     },
-    "description": ""
+    "description": "App para calcular qual combustível está mais compensando",
+    "githubUrl": "https://github.com/gabrielborc/gasolina_ou_etanol"
   }
 }
